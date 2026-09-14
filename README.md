@@ -1,4 +1,4 @@
-# Kaszinó
+# Cassino
 
 The **Hungarian two-player version** of Cassino, with a 52-card French deck —
 in the browser, you against the computer.
